@@ -1,5 +1,8 @@
 # simple-spider
 cheerio,reg两种方法做的两个简单的蜘蛛
+```bash
+npm install cheerio
+```
 
 [这还有一种，https://github.com/Mopecat/spider-demo](https://github.com/Mopecat/spider-demo)
 ```bash
